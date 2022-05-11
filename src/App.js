@@ -1,9 +1,7 @@
-import './App.css';
-
 function App() {
   return (
     <div className="App">
-      Tok tok ui
+      <h1>Tok tok ui</h1>
     </div>
   );
 }
